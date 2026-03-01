@@ -76,6 +76,6 @@ npm start
 ## 📚 Original Repository
 
 This repository is forked from:
-[Original Repo Link Here]
+[https://github.com/thebase666/nextjs16-weather-mapbox-chart.git]
 
 All architectural refactoring and production-level improvements were implemented independently.
