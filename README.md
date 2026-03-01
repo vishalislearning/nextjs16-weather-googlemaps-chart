@@ -22,6 +22,15 @@ Users can:
 - Select locations dynamically
 - Render markers on selected positions
 
+- <img width="1278" height="831" alt="image" src="https://github.com/user-attachments/assets/ce1b724e-8e38-48fc-9d38-aae6ee46633c" />
+
+<img width="1191" height="821" alt="image" src="https://github.com/user-attachments/assets/60c0a3b2-1ad7-44f6-aa33-26d80d9b35b1" />
+
+<img width="1195" height="855" alt="image" src="https://github.com/user-attachments/assets/f732d15f-d982-48ea-b782-5cac1b46a5ee" />
+
+
+
+
 ---
 
 ## 🔧 Key Improvements & Refactoring
